@@ -1,3 +1,10 @@
+The system is supposed to move files from high volume directory into respective distinations.
+> Active logging.
+> House keeping protocols.
+> Email Notifications.
+> File management.
+> Multi-tasking.
+
 @#####Notes on optimisation parse method without overloading memory#####@
 - The max memory needed to run a large file depends on the longest line in the input.
 - Of course remembering to fclose($handle);
