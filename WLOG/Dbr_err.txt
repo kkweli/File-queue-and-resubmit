@@ -1,0 +1,145 @@
+01-04-2017 || 11:54 || - Query execution was interrupted97
+01-04-2017 || 11:54 || - Query execution was interrupted97
+01-04-2017 || 11:55 || - MySQL server has gone away28
+01-04-2017 || 11:55 || - MySQL server has gone away28
+01-04-2017 || 11:55 || - MySQL server has gone away28
+01-04-2017 || 11:55 || - MySQL server has gone away28
+01-04-2017 || 21:24 || - Duplicate entry '267301' for key 'PRIMARY'18
+01-04-2017 || 21:27 || - Duplicate entry '267301' for key 'PRIMARY'18
+04-04-2017 || 13:40 || - Query execution was interrupted99
+04-04-2017 || 13:41 || - Server shutdown in progress37
+04-04-2017 || 13:41 || - Server shutdown in progress99
+04-04-2017 || 13:41 || - Server shutdown in progress27
+04-04-2017 || 16:41 || - Server shutdown in progress177
+04-04-2017 || 13:41 || - Server shutdown in progress124
+04-04-2017 || 13:41 || - Server shutdown in progress27
+004-04-2017 || 13:41 || - Server shutdown in progress132
+04-04-2017 || 13:41 || - Server shutdown in progress132004-04-2017 || 13:41 || - Server shutdown in progress27
+
+04-04-2017 || 13:41 || - Server shutdown in progress124
+04-04-2017 || 13:41 || - Server shutdown in progress27
+
+04-04-2017 || 13:41 || - Server shutdown in progress27
+04-04-2017 || 16:41 || - Server shutdown in progress162
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:42 || - Query execution was interrupted90
+04-04-2017 || 15:43 || - MySQL server has gone away90
+04-04-2017 || 15:43 || - MySQL server has gone away90
+04-04-2017 || 15:43 || - MySQL server has gone away90
+04-04-2017 || 16:00 || - MySQL server has gone away37
+04-04-2017 || 19:00 || - MySQL server has gone away177
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 16:00 || - MySQL server has gone away27
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 19:00 || - MySQL server has gone away162
+04-04-2017 || 16:00 || - MySQL server has gone away27
+04-04-2017 || 16:00 || - MySQL server has gone away37
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 16:00 || - MySQL server has gone away132
+04-04-2017 || 16:00 || - MySQL server has gone away99
+04-04-2017 || 16:00 || - MySQL server has gone away90
+04-04-2017 || 16:00 || - MySQL server has gone away132
+04-04-2017 || 16:00 || - MySQL server has gone away27
+04-04-2017 || 16:00 || - MySQL server has gone away90
+04-04-2017 || 16:00 || - MySQL server has gone away132
+04-04-2017 || 16:00 || - MySQL server has gone away132
+04-04-2017 || 16:00 || - MySQL server has gone away46
+04-04-2017 || 16:00 || - MySQL server has gone away37
+04-04-2017 || 16:00 || - MySQL server has gone away90
+04-04-2017 || 19:00 || - 162
+04-04-2017 || 16:27 || - Query execution was interrupted90
+14-04-2017 || 13:42 || - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 190
+20-04-2017 || 10:55 || - MySQL server has gone away106
+20-04-2017 || 10:55 || - MySQL server has gone away90
+20-04-2017 || 10:55 || - MySQL server has gone away131
+20-04-2017 || 10:57 || - Query execution was interrupted131
+20-04-2017 || 10:57 || - Query execution was interrupted37
+20-04-2017 || 13:57 || - Query execution was interrupted169
+20-04-2017 || 11:25 || - Server shutdown in progress131
+20-04-2017 || 11:25 || - Server shutdown in progress139
+20-04-2017 || 11:25 || - Server shutdown in progress131
+20-04-2017 || 11:25 || - Server shutdown in progress131
+20-04-2017 || 11:25 || - Server shutdown in progress27
+20-04-2017 || 11:25 || - Server shutdown in progress27
+
+20-04-2017 || 11:25 || - Server shutdown in progress131
+20-04-2017 || 14:25 || - Server shutdown in progress169
+20-04-2017 || 11:56 || - Unknown column 'file' in 'where clause'96
+20-04-2017 || 12:01 || - Unknown column 'file' in 'where clause'96
+20-04-2017 || 12:06 || - Unknown column 'file' in 'where clause'96
+20-04-2017 || 12:11 || - Unknown column 'file' in 'where clause'96
+20-04-2017 || 12:11 || - Unknown column 'file' in 'where clause'96
+01-06-2017 || 19:47 || - Server shutdown in progress37
+01-06-2017 || 19:47 || - Server shutdown in progress130
+01-06-2017 || 19:47 || - Server shutdown in progress64
+
+01-06-2017 || 19:47 || - Server shutdown in progress105
+01-06-2017 || 19:47 || - Server shutdown in progress27
+
+01-06-2017 || 19:47 || - Server shutdown in progress138
+01-06-2017 || 20:29 || - Server shutdown in progress138
+01-06-2017 || 20:29 || - Server shutdown in progress130
+01-06-2017 || 23:29 || - Server shutdown in progress168
+01-06-2017 || 22:51 || - Server shutdown in progress37
+
+01-06-2017 || 22:51 || - Server shutdown in progress130
+02-06-2017 || 01:31 || - Server shutdown in progress105
+02-06-2017 || 04:31 || - Server shutdown in progress168
+02-06-2017 || 01:31 || - Server shutdown in progress37
+02-06-2017 || 01:31 || - Server shutdown in progress205
+02-06-2017 || 20:50 || - Server shutdown in progress130
+02-06-2017 || 20:50 || - Server shutdown in progress105
+02-06-2017 || 20:50 || - Server shutdown in progress138
+02-06-2017 || 20:50 || - Server shutdown in progress130
+02-06-2017 || 23:53 || - Server shutdown in progress168
+03-06-2017 || 00:32 || - Server shutdown in progress168
+02-06-2017 || 21:32 || - Server shutdown in progress105
+02-06-2017 || 21:32 || - Server shutdown in progress138
+02-06-2017 || 21:32 || - Server shutdown in progress90
+02-06-2017 || 21:32 || - Server shutdown in progress105
+02-06-2017 || 21:32 || - Server shutdown in progress90
+02-06-2017 || 21:32 || - Server shutdown in progress105
+02-06-2017 || 21:32 || - Server shutdown in progress130
+02-06-2017 || 21:32 || - Server shutdown in progress105
+02-06-2017 || 21:32 || - Server shutdown in progress138
+02-06-2017 || 21:32 || - Server shutdown in progress105
+03-06-2017 || 00:32 || - Server shutdown in progress183
+03-06-2017 || 00:32 || - Server shutdown in progress168
+03-06-2017 || 00:59 || - Query execution was interrupted198
+02-06-2017 || 21:59 || - Query execution was interrupted105
+02-06-2017 || 21:59 || - Query execution was interrupted105
+02-06-2017 || 21:59 || - Query execution was interrupted105
+02-06-2017 || 21:59 || - Query execution was interrupted138
+02-06-2017 || 21:59 || - Query execution was interrupted130
+03-06-2017 || 00:59 || - Query execution was interrupted168
+02-06-2017 || 21:59 || - Query execution was interrupted105
+03-06-2017 || 01:03 || - Query execution was interrupted168
+02-06-2017 || 22:20 || - Query execution was interrupted138
+02-06-2017 || 22:20 || - Query execution was interrupted138
+04-07-2017 || 15:13 || - MySQL server has gone away37
+15-07-2017 || 03:29 || - Server shutdown in progress37
+25-07-2017 || 20:51 || - MySQL server has gone away37
+28-07-2017 || 19:01 || - MySQL server has gone away37
+08-09-2017 || 05:18 || - Table 'eresub.eres_file' doesn't exist90
+08-09-2017 || 05:20 || - Table 'eresub.eres_file' doesn't exist90
+12-09-2017 || 04:55 || - Table 'eresub.eres_file' doesn't exist90
+12-09-2017 || 06:07 || - Unknown column 'e_locked' in 'where clause'46
+12-09-2017 || 06:08 || - Unknown column 'e_locked' in 'where clause'46
+12-09-2017 || 06:09 || - Unknown column 'e_locked' in 'where clause'46
+12-09-2017 || 06:10 || - Unknown column 'e_locked' in 'where clause'46
+12-09-2017 || 06:10 || - Unknown column 'e_locked' in 'where clause'46
+13-09-2017 || 06:30 || - Access denied for user ''@'localhost' (using password: NO)46
+13-09-2017 || 06:31 || - Access denied for user ''@'localhost' (using password: NO)90
+13-09-2017 || 06:34 || - Access denied for user ''@'localhost' (using password: NO)90
+13-09-2017 || 06:35 || - Access denied for user ''@'localhost' (using password: NO)229
